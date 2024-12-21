@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Screenshot 2024-12-18 103939](https://github.com/user-attachments/assets/c96452f1-fb25-4209-ba1a-017c3436c5ab)
+ ![Screenshot 2024-12-21 202738](https://github.com/user-attachments/assets/cdb81f03-3ce4-4c9b-b4d8-7391be3f0bd3)
+
 
 
 ### Name: pothu sumanth
