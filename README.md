@@ -38,18 +38,22 @@
 ### ●	Select the options of process of pre-processing in the sequence in which they are shown.
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
+
 ## OUTPUT:
-![Screenshot 2024-12-23 111011](https://github.com/user-attachments/assets/e0b5bf04-cdd8-4994-b046-dda8de5ce16d)
 
-![Screenshot 2024-12-23 111023](https://github.com/user-attachments/assets/96723bc3-cbc5-4cde-8085-60f6b05ffbc6)
+![WhatsApp Image 2024-12-23 at 11 01 02_47820cdb](https://github.com/user-attachments/assets/f489a29b-3243-492e-abbe-1071bdf4d70b)
 
-![Screenshot 2024-12-23 111034](https://github.com/user-attachments/assets/73b6c706-59e8-430b-8736-e03ff91fd93b)
+![WhatsApp Image 2024-12-23 at 10 59 36_27df417a](https://github.com/user-attachments/assets/04b97a83-a33e-4eb6-8e43-213ac855834b)
 
-![Screenshot 2024-12-23 111044](https://github.com/user-attachments/assets/c3451a60-f6cf-41da-86fb-535604f1cfd8)
+![WhatsApp Image 2024-12-23 at 10 59 36_e5d0ca2b](https://github.com/user-attachments/assets/c464a27a-7ec7-43af-a6a5-0991e250f8f3)
 
-![Screenshot 2024-12-23 111059](https://github.com/user-attachments/assets/41660d19-67bd-442d-8f9a-aa85fe8bd483)
 
-![Screenshot 2024-12-23 111113](https://github.com/user-attachments/assets/f60c68eb-f128-47d4-926c-90878ce269fb
+## OUTPUT :
+
+![WhatsApp Image 2024-12-23 at 10 59 37_091a1c6d](https://github.com/user-attachments/assets/75f5e305-69e2-4c95-9d33-042e783166e2)
+
+![Screenshot 2024-12-21 133843](https://github.com/user-attachments/assets/5c30b529-43e3-4b04-9641-d01612353f31)
+
 
 
 
